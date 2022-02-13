@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subhadip-saha
-- 👀 I’m interested in ... Software development, web development
-- 🌱 I’m currently learning ... advanced java
+- 👀 I’m interested in ... Software Development, Web Development
+- 🌱 I’m currently learning ... Advanced Java, Automation and Testing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
