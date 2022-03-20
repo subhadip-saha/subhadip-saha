@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subhadip-saha
 - 👀 I’m interested in ... Software Development, Web Development
-- 🌱 I’m currently learning ... Advanced Java, Automation and Testing
+- 🌱 I’m currently learning ... Problem Solving, Core Java, MERN Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
